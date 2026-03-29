@@ -6,7 +6,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> **95 个适配器**，覆盖 **35 个平台** — 持续增长中。
+> **97 个适配器**，覆盖 **36 个平台** — 持续增长中。
 
 ## 快速开始
 
@@ -108,6 +108,12 @@ bb-browser site reddit/thread <url>        # 带参数运行
 |------|------|------|
 | 有道翻译 | `youdao/translate` | 翻译/词典查询 |
 | 携程 | `ctrip/search` | 目的地景点搜索 |
+
+### 🔁 二手交易
+
+| 平台 | 命令 | 说明 |
+|------|------|------|
+| Chiphell | `chiphell/posts`, `chiphell/post` | Chiphell 玩家二手交易区 — 帖子列表、详情及回复 |
 
 ### 🗨️ 即时通讯
 

@@ -6,7 +6,7 @@ Each site adapter is a JS function that runs inside your browser via `bb-browser
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> **95 adapters** across **35 platforms** — and growing.
+> **97 adapters** across **36 platforms** — and growing.
 
 ## Quick Start
 
@@ -108,6 +108,12 @@ bb-browser site reddit/thread <url>        # run with args
 |----------|---------|-------------|
 | Youdao | `youdao/translate` | 有道翻译 — translation & dictionary |
 | Ctrip | `ctrip/search` | 携程 — destination & attraction search |
+
+### 🔁 Second-Hand Trading
+
+| Platform | Commands | Description |
+|----------|----------|-------------|
+| Chiphell | `chiphell/posts`, `chiphell/post` | Chiphell 玩家出售发布区 — second-hand marketplace listing & detail |
 
 ### 🗨️ Social Apps
 
